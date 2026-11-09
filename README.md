@@ -8,7 +8,7 @@
 
 Liquid glass, live blur and spring physics in place of One UI's quick panel, as an LSPosed module.
 
-<img src="https://img.shields.io/badge/version-0.84-c0405e?style=for-the-badge" alt="Version 0.84">
+<img src="https://img.shields.io/badge/version-0.86-c0405e?style=for-the-badge" alt="Version 0.86">
 <img src="https://img.shields.io/badge/One%20UI-9-1428a0?style=for-the-badge&logo=samsung&logoColor=white" alt="One UI 9">
 <img src="https://img.shields.io/badge/LSPosed-module-6a45d6?style=for-the-badge" alt="LSPosed module">
 <img src="https://img.shields.io/badge/root-required-2b2b33?style=for-the-badge" alt="Root required">
@@ -100,7 +100,7 @@ ColorCC is built against One UI 9's System UI. Other One UI versions are not sup
 
 ## 🚀 Installation
 
-1. Download **`ColorCC-v0.84.apk`** from the [Releases](../../releases) page and install it.
+1. Download **`ColorCC-v0.86.apk`** from the [Releases](../../releases) page and install it.
 2. Open **LSPosed → Modules**, enable **ColorCC** and tick **System UI** in its scope.
 3. Restart System UI. Either reboot, or run this in a root terminal:
    ```sh
@@ -121,7 +121,7 @@ ColorCC is built against One UI 9's System UI. Other One UI versions are not sup
 | Hold the volume slider | Every volume, one slider each |
 | Tap the media card | The full media player |
 | ✏️ Pencil (top left) | The editor |
-| ⋮ Three dots | The power menu |
+| Power button (top right) | The power menu |
 | ⚙️ Gear | Settings |
 
 **In the editor:** hold and drag to move, drag the corner arrow to resize, and tap − or + to remove or add. Pick a **Look** (Liquid, Frosted or Opaque) and a **Blur** (Light, Normal or Strong); both preview straight away. Tap **Done** to keep your changes.
@@ -171,6 +171,19 @@ Disable ColorCC in LSPosed, or uninstall the app, then restart System UI. Nothin
 
 <br>
 
+## 💖 Special thanks
+
+To the people who tested ColorCC and suggested features for it:
+
+- [**Namphet**](https://www.tiktok.com/@namphet_.s23)
+- **白夜执**
+- **Kzrxe.7z**
+- **Kil**
+- **Hayachi**
+- **Alizabp**
+
+<br>
+
 ## ⚠️ Disclaimer
 
 ColorCC modifies System UI on a rooted phone. It is provided as is, without warranty, and you use it at your own risk. Keep a way back, such as root manager safe mode, before you install any System UI module.
@@ -179,8 +192,16 @@ Samsung, Galaxy and One UI are trademarks of Samsung Electronics. ColorOS is a t
 
 <br>
 
+## 📜 Copyright
+
+© 2026 Guest. All rights reserved.
+
+ColorCC is free to download and use. Please share a link to this page instead of re-uploading the APK or the images, and do not publish modified copies as your own.
+
+<br>
+
 <div align="center">
 
-Made by **Guest** · Inspired by ColorOS 16 and iOS
+Made by **Guest** · © 2026 · Inspired by ColorOS 16 and iOS
 
 </div>
