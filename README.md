@@ -181,6 +181,7 @@ To the people who tested ColorCC and suggested features for it:
 - **Kil**
 - **Hayachi**
 - **Alizabp**
+- **Hari**
 
 <br>
 
