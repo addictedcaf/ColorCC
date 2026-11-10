@@ -175,12 +175,12 @@ Disable ColorCC in LSPosed, or uninstall the app, then restart System UI. Nothin
 
 To the people who tested ColorCC and suggested features for it:
 
+- **Alizabp**
 - [**Namphet**](https://www.tiktok.com/@namphet_.s23)
 - **白夜执**
-- **Kzrxe.7z**
+- [**Kzrxe.7z**](https://www.tiktok.com/@nxt_nix2)
 - **Kil**
 - **Hayachi**
-- **Alizabp**
 - **Hari**
 
 <br>
