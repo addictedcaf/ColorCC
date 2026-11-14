@@ -116,7 +116,7 @@ Any other One UI version isn't supported yet — ColorCC just leaves the stock p
 
 ## Installation
 
-1. Grab **`ColorCC-v0.99.58.apk`** from the [Releases](../../releases) page and install it.
+1. Grab **`ColorCC.apk`** from the [Releases](../../releases) page and install it.
 2. Open **LSPosed > Modules**, enable **ColorCC**, and tick **System UI** in its scope.
 3. Restart System UI — reboot, or run this in a root terminal:
    ```sh
