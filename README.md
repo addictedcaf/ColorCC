@@ -200,7 +200,7 @@ Big thanks to everyone who tested ColorCC and suggested features along the way:
 - [**Murat**](https://github.com/murat4747k-blip)
 - [**Xezjk**](https://github.com/xezjk)
 - [**BlueOutside**](https://github.com/BlueOutside)
-- [**Sajid**](https://github.com/sajidmousa98-hash)
+- [**QuestAstro**](https://github.com/QuestAstro)
 - **希望**
 - **Alizabp**
 - **Kil**
