@@ -204,6 +204,7 @@ Big thanks to everyone who tested ColorCC and suggested features along the way:
 - **Kil**
 - **Hayachi**
 - **Hari**
+- **Diogovsc**
 
 <br>
 
