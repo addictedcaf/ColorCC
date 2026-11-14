@@ -198,6 +198,7 @@ Big thanks to everyone who tested ColorCC and suggested features along the way:
 - [**Kzrxe.7z**](https://www.tiktok.com/@nxt_nix2)
 - [**Namphet**](https://www.tiktok.com/@namphet_.s23)
 - [**Murat**](https://github.com/murat4747k-blip)
+- [**Xezjk**](https://github.com/xezjk)
 - **希望**
 - **Alizabp**
 - **Kil**
