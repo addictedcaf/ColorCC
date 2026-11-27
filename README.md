@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/82deada6-9f79-4313-a672-697887f52f57
+
 <div align="center">
 
 <img src="assets/logo.png" width="132" alt="ColorCC logo">
@@ -234,4 +238,4 @@ ColorCC is free to download and use. Please share a link to this page rather tha
 
 Made by **Guest** · © 2026 · Inspired by ColorOS and iOS
 
-</div>
+</div>f5d1c7c232359414ca15368b4208b2ab41708e33
